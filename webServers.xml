@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d491deb3-81ee-430a-8903-95ceeb71944a" name="o2mobile" url="http://localhost/web/o2mobile/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="1f396a5f-ff14-4116-877e-8b4c71c12bdf" name="o2online" url="http://localhost/web/o2online/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c779a6d9-2f51-4aa8-9f5b-01180453492b" name="Laravel 5.4 Tutorial" url="http://localhost/l54tutorial">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="efcf3aaa-c309-4777-a9f5-49f2092624e0" name="oranblackwell.com" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9f4bdee6-348b-489b-a6d3-3f998999f398" name="example.dev" url="http://example.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
