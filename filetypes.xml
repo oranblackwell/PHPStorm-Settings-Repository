@@ -1,15 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
-      <removed_mapping ext="md" type="Markdown" />
-      <mapping ext="md" type="Native" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="sefdgsdfg" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="Gitignore file" />
+      <mapping ext="md" type="Native" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
     </extensionMap>
+    <setting name="fileTypeChangedCounter" value="2" />
   </component>
 </application>

@@ -3,5 +3,6 @@
     <option name="customScope" value="Assignment" />
     <option name="defaultScopeName" value="Assignment" />
     <option name="SEARCH_SCOPE" value="Assignment" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
