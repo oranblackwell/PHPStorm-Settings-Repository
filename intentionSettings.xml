@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Convert to short syntax" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
   </component>
 </application>
-
