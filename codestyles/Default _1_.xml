@@ -15,6 +15,10 @@
   <option name="RIGHT_MARGIN" value="160" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <JSCodeStyleSettings>
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -38,6 +42,15 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="WRAP_COMMENTS" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
